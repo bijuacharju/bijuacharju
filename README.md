@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bijuacharju
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS. and Node JS.
-- 💞️ I’m looking to collaborate on Web Applicaion Development
+- 👋 Hi, I’m @bijuacharju.
+- 👀 I’m interested in Front-end Web Development.
+- 🌱 I’m currently learning React JS. and Node.js.
+- 💞️ I’m looking to collaborate on Web Applicaion Development.
 - 📫 How to reach me: bijuacharju4@gmail.com
 
 <!---
